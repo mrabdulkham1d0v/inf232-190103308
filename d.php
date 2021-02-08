@@ -1,5 +1,5 @@
 <?php 
-function points($twoPointers, $threePointers) {
-	return $twoPointers * 2 + $threePointers * 3;
+function points($twoPointerss, $threePointerss) {
+	return $twoPointerss * 2 + $threePointerss * 3;
 }
 ?>
